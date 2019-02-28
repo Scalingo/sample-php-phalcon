@@ -1,0 +1,14 @@
+{
+  "name": "Sample PHP Phalcon",
+  "description": "Sample web application using the PHP framework Phalcon",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Phalcon_logo.png/220px-Phalcon_logo.png",
+  "repository": "https://github.com/Scalingo/sample-php-phalcon",
+  "website": "https://scalingo.com",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "S"
+    }
+  }
+}
+
