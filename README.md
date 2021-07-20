@@ -1,5 +1,6 @@
-Sample Application with PHP and Phalcon
-======================================
+# Sample Application with PHP and Phalcon
+
+/!\ Support for Phalcon has been dropped. Please contact Scalingo support if you need it back.
 
 Running Locally
 ---------------
